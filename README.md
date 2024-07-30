@@ -1,3 +1,3 @@
-# unet
+# UNet
 
-unet model for segmentation
+UNet model for cancer cell segmentation
