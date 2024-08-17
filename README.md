@@ -1,3 +1,3 @@
 # UNet
 
-UNet model for cancer cell segmentation
+UNet модель сегментации раковых клеток
